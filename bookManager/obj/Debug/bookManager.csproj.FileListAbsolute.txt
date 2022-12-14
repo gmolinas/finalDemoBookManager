@@ -1,0 +1,11 @@
+C:\repos_Disco\FinalFacu\bookManager\bin\Debug\bookManager.exe.config
+C:\repos_Disco\FinalFacu\bookManager\bin\Debug\bookManager.exe
+C:\repos_Disco\FinalFacu\bookManager\bin\Debug\bookManager.pdb
+C:\repos_Disco\FinalFacu\bookManager\obj\Debug\bookManager.csproj.AssemblyReference.cache
+C:\repos_Disco\FinalFacu\bookManager\obj\Debug\bookManager.csproj.SuggestedBindingRedirects.cache
+C:\repos_Disco\FinalFacu\bookManager\obj\Debug\bookManager.Form1.resources
+C:\repos_Disco\FinalFacu\bookManager\obj\Debug\bookManager.Properties.Resources.resources
+C:\repos_Disco\FinalFacu\bookManager\obj\Debug\bookManager.csproj.GenerateResource.cache
+C:\repos_Disco\FinalFacu\bookManager\obj\Debug\bookManager.csproj.CoreCompileInputs.cache
+C:\repos_Disco\FinalFacu\bookManager\obj\Debug\bookManager.exe
+C:\repos_Disco\FinalFacu\bookManager\obj\Debug\bookManager.pdb
